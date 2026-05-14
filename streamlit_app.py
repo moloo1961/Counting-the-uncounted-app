@@ -1,5 +1,5 @@
 # Counting the Uncounted: GBV Visibility Index in Kenya
-# Streamlit App
+# Streamlit App 
 
 # Import libraries used
 import streamlit as st
@@ -267,11 +267,11 @@ st.divider()
 
 with st.expander("Methodolgy & Data Sources"):
     st.markdown("""
-                **Visibility Score Formula**
+                **Visibility Score Formula**\n
                 Visibility Score = KDHS Physical Violence % / NCRC Reported GBV %
 
 
-                **Data Sources**
+                **Data Sources**\n
                 Kenya National Bureau of Statistics (KNBS). (2023). *Kenya Demographic and 
                 Health Survey 2022: County crosstab* [Data set]. African Development Data Hub. 
                 https://ckan.africadatahub.org/dataset/kenya-demographic-and-health-survey-2022
@@ -284,16 +284,16 @@ with st.expander("Methodolgy & Data Sources"):
                 https://genderdata.worldbank.org/en/economies/kenya
 
 
-                **Tools Used**
+                **Tools Used**\n
                 Python . requests . openpyxl . matplotlib . Streamlit
                 """)
 
 
 with st.expander("Who Needs This?"):
     st.markdown("""
-                **NGOs** deciding where to open safe houses
+                **NGOs** deciding where to open safe houses\n
                 **County Governments** that need to have more 
-                police gender desks in specific areas
+                police gender desks in specific areas\n
                 **Donors and funders** that want to move beyond
                 news coverage as a proxy for need
                 """)
@@ -302,15 +302,15 @@ with st.expander("Who Needs This?"):
 with st.expander("References (APA 7th Edition)"):
     st.markdown("""
     Kenya National Bureau of Statistics (KNBS). (2023). *Kenya Demographic 
-    and Health Survey 2022: County crosstab* [Data set]. African Development 
-    Data Hub. https://ckan.africadatahub.org/dataset/kenya-demographic-and-health-survey-2022
+        and Health Survey 2022: County crosstab* [Data set]. African Development 
+        Data Hub. https://ckan.africadatahub.org/dataset/kenya-demographic-and-health-survey-2022
 
     National Crime Research Centre. (2022). *2021 annual crime yearbook*. 
+                
     Government of Kenya. https://www.crimeresearch.go.ke/wp-content/uploads/2022/07/2021-ANNUAL-CRIME-YEAR-BOOK.pdf
-             World Bank. (2024). *Gender data portal: Kenya* [Data set]. 
-    World Bank Group. https://genderdata.worldbank.org/en/economies/kenya              
-                
-                
+             
+    World Bank. (2024). *Gender data portal: Kenya* [Data set]. 
+        World Bank Group. https://genderdata.worldbank.org/en/economies/kenya               
                 """)
     
 st.markdown("---")
@@ -320,4 +320,3 @@ st.caption(
     "World Bank Gender Data Portal, 2024 | "
     "Python Capstone Project | Zindua School | May 2026"
 )
-
