@@ -1,0 +1,266 @@
+[
+  {
+    "county": "Tana River",
+    "kdhs_physical_pct": 23.2,
+    "police_gbv_pct": 3.2,
+    "visibility_score": 7.25
+  },
+  {
+    "county": "Kisumu",
+    "kdhs_physical_pct": 26.0,
+    "police_gbv_pct": 3.9,
+    "visibility_score": 6.67
+  },
+  {
+    "county": "Bungoma",
+    "kdhs_physical_pct": 29.4,
+    "police_gbv_pct": 5.8,
+    "visibility_score": 5.07
+  },
+  {
+    "county": "Kitui",
+    "kdhs_physical_pct": 4.7,
+    "police_gbv_pct": 1.0,
+    "visibility_score": 4.7
+  },
+  {
+    "county": "Kirinyaga",
+    "kdhs_physical_pct": 12.5,
+    "police_gbv_pct": 2.9,
+    "visibility_score": 4.31
+  },
+  {
+    "county": "Vihiga",
+    "kdhs_physical_pct": 17.1,
+    "police_gbv_pct": 4.1,
+    "visibility_score": 4.17
+  },
+  {
+    "county": "Baringo",
+    "kdhs_physical_pct": 19.6,
+    "police_gbv_pct": 5.2,
+    "visibility_score": 3.77
+  },
+  {
+    "county": "Mandera",
+    "kdhs_physical_pct": 3.3,
+    "police_gbv_pct": 0.9,
+    "visibility_score": 3.67
+  },
+  {
+    "county": "Laikipia",
+    "kdhs_physical_pct": 11.7,
+    "police_gbv_pct": 3.3,
+    "visibility_score": 3.55
+  },
+  {
+    "county": "Nandi",
+    "kdhs_physical_pct": 15.0,
+    "police_gbv_pct": 4.3,
+    "visibility_score": 3.49
+  },
+  {
+    "county": "Kakamega",
+    "kdhs_physical_pct": 19.1,
+    "police_gbv_pct": 5.8,
+    "visibility_score": 3.29
+  },
+  {
+    "county": "Kiambu",
+    "kdhs_physical_pct": 17.9,
+    "police_gbv_pct": 5.7,
+    "visibility_score": 3.14
+  },
+  {
+    "county": "Nyandarua",
+    "kdhs_physical_pct": 5.0,
+    "police_gbv_pct": 1.7,
+    "visibility_score": 2.94
+  },
+  {
+    "county": "West Pokot",
+    "kdhs_physical_pct": 19.1,
+    "police_gbv_pct": 6.8,
+    "visibility_score": 2.81
+  },
+  {
+    "county": "Nairobi",
+    "kdhs_physical_pct": 13.5,
+    "police_gbv_pct": 5.0,
+    "visibility_score": 2.7
+  },
+  {
+    "county": "Mombasa",
+    "kdhs_physical_pct": 11.5,
+    "police_gbv_pct": 4.3,
+    "visibility_score": 2.67
+  },
+  {
+    "county": "Siaya",
+    "kdhs_physical_pct": 16.9,
+    "police_gbv_pct": 6.7,
+    "visibility_score": 2.52
+  },
+  {
+    "county": "Uasin Gishu",
+    "kdhs_physical_pct": 12.4,
+    "police_gbv_pct": 5.0,
+    "visibility_score": 2.48
+  },
+  {
+    "county": "Kilifi",
+    "kdhs_physical_pct": 8.3,
+    "police_gbv_pct": 3.4,
+    "visibility_score": 2.44
+  },
+  {
+    "county": "Makueni",
+    "kdhs_physical_pct": 11.9,
+    "police_gbv_pct": 4.9,
+    "visibility_score": 2.43
+  },
+  {
+    "county": "Kajiado",
+    "kdhs_physical_pct": 17.0,
+    "police_gbv_pct": 7.1,
+    "visibility_score": 2.39
+  },
+  {
+    "county": "Machakos",
+    "kdhs_physical_pct": 10.1,
+    "police_gbv_pct": 4.3,
+    "visibility_score": 2.35
+  },
+  {
+    "county": "Murang'a",
+    "kdhs_physical_pct": 22.0,
+    "police_gbv_pct": 9.7,
+    "visibility_score": 2.27
+  },
+  {
+    "county": "Wajir",
+    "kdhs_physical_pct": 5.5,
+    "police_gbv_pct": 2.9,
+    "visibility_score": 1.9
+  },
+  {
+    "county": "Elgeyo/Marakwet",
+    "kdhs_physical_pct": 15.9,
+    "police_gbv_pct": 8.6,
+    "visibility_score": 1.85
+  },
+  {
+    "county": "Kericho",
+    "kdhs_physical_pct": 10.2,
+    "police_gbv_pct": 5.5,
+    "visibility_score": 1.85
+  },
+  {
+    "county": "Nyeri",
+    "kdhs_physical_pct": 15.4,
+    "police_gbv_pct": 8.6,
+    "visibility_score": 1.79
+  },
+  {
+    "county": "Isiolo",
+    "kdhs_physical_pct": 29.3,
+    "police_gbv_pct": 16.7,
+    "visibility_score": 1.75
+  },
+  {
+    "county": "Samburu",
+    "kdhs_physical_pct": 28.5,
+    "police_gbv_pct": 17.1,
+    "visibility_score": 1.67
+  },
+  {
+    "county": "Homa Bay",
+    "kdhs_physical_pct": 26.6,
+    "police_gbv_pct": 16.0,
+    "visibility_score": 1.66
+  },
+  {
+    "county": "Taita/Taveta",
+    "kdhs_physical_pct": 7.4,
+    "police_gbv_pct": 4.8,
+    "visibility_score": 1.54
+  },
+  {
+    "county": "Trans Nzoia",
+    "kdhs_physical_pct": 17.2,
+    "police_gbv_pct": 11.2,
+    "visibility_score": 1.54
+  },
+  {
+    "county": "Migori",
+    "kdhs_physical_pct": 29.5,
+    "police_gbv_pct": 19.6,
+    "visibility_score": 1.51
+  },
+  {
+    "county": "Meru",
+    "kdhs_physical_pct": 15.1,
+    "police_gbv_pct": 10.6,
+    "visibility_score": 1.42
+  },
+  {
+    "county": "Kisii",
+    "kdhs_physical_pct": 19.8,
+    "police_gbv_pct": 14.3,
+    "visibility_score": 1.38
+  },
+  {
+    "county": "Busia",
+    "kdhs_physical_pct": 21.1,
+    "police_gbv_pct": 15.9,
+    "visibility_score": 1.33
+  },
+  {
+    "county": "Marsabit",
+    "kdhs_physical_pct": 14.2,
+    "police_gbv_pct": 12.2,
+    "visibility_score": 1.16
+  },
+  {
+    "county": "Turkana",
+    "kdhs_physical_pct": 19.9,
+    "police_gbv_pct": 22.3,
+    "visibility_score": 0.89
+  },
+  {
+    "county": "Embu",
+    "kdhs_physical_pct": 27.7,
+    "police_gbv_pct": 33.8,
+    "visibility_score": 0.82
+  },
+  {
+    "county": "Nyamira",
+    "kdhs_physical_pct": 11.3,
+    "police_gbv_pct": 15.6,
+    "visibility_score": 0.72
+  },
+  {
+    "county": "Tharaka-Nithi",
+    "kdhs_physical_pct": 13.9,
+    "police_gbv_pct": 23.8,
+    "visibility_score": 0.58
+  },
+  {
+    "county": "Nakuru",
+    "kdhs_physical_pct": 9.4,
+    "police_gbv_pct": 16.1,
+    "visibility_score": 0.58
+  },
+  {
+    "county": "Narok",
+    "kdhs_physical_pct": 16.3,
+    "police_gbv_pct": 36.1,
+    "visibility_score": 0.45
+  },
+  {
+    "county": "Bomet",
+    "kdhs_physical_pct": 10.7,
+    "police_gbv_pct": 30.9,
+    "visibility_score": 0.35
+  }
+]
