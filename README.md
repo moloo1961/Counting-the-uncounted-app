@@ -2,7 +2,7 @@
 
 An interactive Streamlit web application that visualizes and analyzes data related to Gender-Based Violence (GBV) in Kenya. This project aims to bring visibility to patterns, reporting rates, and physical data trends across different counties.
 
-🚀 *[View Live Web Application](https://moloo1961-counting-the-uncounted-counting-the-uncounted-agvc7o.streamlit.app/)*
+🚀 *[View Live Web Application](https://counting-the-uncounted.streamlit.app/)*
 
 ## 📊 Project Overview
 Data regarding GBV is often siloed or underreported. "Counting the Uncounted" processes complex socioeconomic metrics to calculate visibility and reporting scores across Kenyan counties. This allows researchers, policy makers, and citizens to uncover data gaps and trends easily.
